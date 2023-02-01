@@ -1,0 +1,17 @@
+.todo-btn {
+  width: 0.5rem;
+  width: 5rem;
+  display: flex;
+  justify-content: space-around;
+}
+ input:focus {
+  font-size: 2rem;
+}
+
+.addItems .fa-edit {
+  color: rgb(47, 214, 122);
+}
+
+.fa-edit {
+  margin-left: -3.5rem;
+}
